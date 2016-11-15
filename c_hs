@@ -1,6 +1,7 @@
 int x = 0
     #define x {-
 ;
+
 int main() { extern int puts(char *); puts("Hello, world!"); return 0; }
 
 #define main int y
