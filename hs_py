@@ -1,0 +1,12 @@
+r""" " = 0
+
+main = putStrLn("Hello, world!")
+
+z = const " """
+a = 0
+a # b = 0 {-
+
+print("Hello, world!")
+# python code here
+
+# -}

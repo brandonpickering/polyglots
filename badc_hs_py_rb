@@ -1,0 +1,18 @@
+x=0
+    #define x {-
+-0;
+#define BASH \
+"echo" "Hello, world!"; "exit" "0"
+
+#define PYTHON_RUBY \
+print("Hello, world!"); '' and puts; exit()
+
+#define C_CODE int main(void) { extern int puts(const char *); puts("Hello, world!"); return 0; }
+C_CODE
+
+#define main int y
+#define putStrLn(x) 0
+
+#define HS_COMM -} where a # b = id; define = id
+
+main = putStrLn("Hello, world!");

@@ -1,0 +1,16 @@
+int x = 0
+    #define x {-
+;
+int main() { extern int puts(char *); puts("Hello, world!"); return 0; }
+
+#define main int y
+#define putStrLn(x) 0
+
+#define HS_COMM -} where a # b = id; define = id
+
+main = putStrLn("Hello, world!");
+
+
+int /* z = 0
+-- haskell code here
+x */ z = 0;

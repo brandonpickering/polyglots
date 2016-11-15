@@ -1,0 +1,8 @@
+#define BASH \
+"echo" "Hello, world!"; "exit" "0"
+
+#define PYTHON_RUBY \
+print("Hello, world!"); '' and puts; exit()
+
+#define C_CODE int main(void) { extern int puts(const char *); puts("Hello, world!"); return 0; }
+C_CODE

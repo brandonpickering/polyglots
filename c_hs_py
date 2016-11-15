@@ -1,0 +1,20 @@
+int
+    #/* _ = 0 -- Is this even legal */define x int x
+d = 0;
+
+x=0
+    #define d {-
+
+#define BASH \
+"echo" "Hello, world!"; "exit" "0"
+
+#define PYTHON_RUBY \
+print("Hello, world!"); '' and puts; exit()
+
+#define C_MAIN ; int main() { extern int puts(const char *); puts("Hello, world!"); return 0; }
+C_MAIN
+
+#define main int y
+#define putStrLn(x) 0
+#define HS_COMM -} where _ # _ = id; define = id
+main = putStrLn("Hello, world!");

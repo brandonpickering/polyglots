@@ -1,0 +1,6 @@
+#define C_CODE(x) int main(void) { extern int puts(const char *); puts("Hello, world!"); return 0; }
+
+#define NIM \
+proc C_CODE(x: int) = echo "Hello, world!"
+
+C_CODE(0)
